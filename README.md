@@ -18,4 +18,4 @@ Programme qui se chargera de récupérer et traiterdes requêtes. Un client pour
   
 ## Démo:  
   
-<img src="https://github.com/Youva-git/demon-information-du-systeme/blob/master/Ecommandes.gif">
+<img src="https://https://github.com/Youva-git/demos/blob/master/Ecommandes.gif">
