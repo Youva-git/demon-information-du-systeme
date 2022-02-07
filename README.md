@@ -5,14 +5,14 @@ Programme qui se chargera de récupérer et traiterdes requêtes. Un client pour
   
 ## Aide d'utitilisation des programmes implémenter:  
   
---makefile  
-Usage:  
-* make : pour créer les exécutables (genere-texte genere-mots ac-matrice ac-hachage).  
-* make clean : pour supprimer les fichiers .o et les exécutables généré.  
+1. makefile  
+* Usage:  
+  * make : pour créer les exécutables (genere-texte genere-mots ac-matrice ac-hachage).  
+  * make clean : pour supprimer les fichiers .o et les exécutables généré.  
   
-1. Lancer le serveur.  
+2. Lancer le serveur.  
 ./serveur
   
-2. Lancer le client.  
+3. Lancer le client.  
 ./client [commande à traiter]
 
