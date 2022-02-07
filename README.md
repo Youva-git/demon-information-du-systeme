@@ -14,5 +14,8 @@ Programme qui se chargera de récupérer et traiterdes requêtes. Un client pour
 ./serveur
   
 3. Lancer le client.  
-./client [commande à traiter]
-
+./client [commande à traiter]  
+  
+## Démo:  
+  
+<img src="https://github.com/Youva-git/demon-information-du-systeme/blob/master/Ecommandes.gif">
